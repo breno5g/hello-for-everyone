@@ -3,6 +3,7 @@
 ## Languages list
 
 - [x] 3bc
+- [x] Assembly
 - [x] C
 - [x] C++
 - [x] C#
