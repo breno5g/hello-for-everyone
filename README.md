@@ -22,3 +22,4 @@
 - [x] Rust
 - [x] Shell
 - [x] Swift
+- [x] ZIG
